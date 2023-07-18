@@ -1,0 +1,87 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+header{
+ background-color: salmon;
+ color: aliceblue;
+ text-align: center;
+ padding: 2% 0%;
+}
+
+.ver{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(5, 168, 125);
+    width: 100%;
+    height: 49px;
+}
+a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    margin: 0px 15px 0px;
+    font-size: 16px;
+}
+button{
+    width: 50px;
+    height: 50px;
+    background-color: transparent;
+    border: none;
+    color: rgb(255, 255, 255);
+    margin: 0px 10px 0px ;
+    cursor:pointer;
+    font-size: medium;
+}
+
+main{
+    display: flex;
+    justify-content:space-evenly;
+    height: 1280px;
+}
+aside{
+    width: 30%;
+    background-color: rgba(202, 200, 200, 0.897);
+}
+p{
+    margin: 0% 4%;
+}
+
+article{
+    width: 70%;
+    margin: 1%;
+}
+.kevinbb{
+    font-size: 19px;
+    margin: 0%
+}
+
+h2{
+    margin: 6% 4% 1%
+}
+
+.a{
+    width: 490px;
+    height: 300px;
+    margin: 1% 4%;
+}
+.c{
+    width: 490px;
+    height: 220px;
+    margin: 1% 4%;
+}
+.b{
+    width: 1270px;
+    height: 280px;
+    margin:1% 0%
+}
+footer{
+    text-align: center;
+    background-color: rgba(181, 179, 179, 0.811);
+    padding: 2%;
+}
+hr{
+    border:4px solid rgba(200, 199, 199, 0.661);
+}

@@ -1,0 +1,16 @@
+*{
+    margin: 0%;
+    padding: 1%;
+}
+ul{
+    display:flex;
+    flex-direction: column;
+}
+li{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    background-color: rgb(173, 173, 173);
+    margin: 2px;
+    width: 450px;
+}

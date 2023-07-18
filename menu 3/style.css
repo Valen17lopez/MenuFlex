@@ -1,0 +1,12 @@
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 800px;
+}
+div{
+    Width: 400px;
+    padding: 1%;
+    background-color: rgb(202, 204, 206);
+    margin: 2%;
+}
